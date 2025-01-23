@@ -1,0 +1,21 @@
+#+title: Codebusters
+
+* Todo Dump
+** DONE get useful links and the like set up
+<2025-01-22 Wed>
+** TODO provide summaries for most of the ciphers we'll be encountering
+SCHEDULED: <2025-01-23 Thu>
+A link is available in the overview pdf attatched to the repo
+
+
+
+* Basic Info
+
+** [[https://www.soinc.org/codebusters-c][Codebusters Website]]
+
+** PDF of the overview is in this repo
+
+* Practice Tests
+I found a good practice test online that has an explanation of the solutions for harder problems, it's in the practice_tests directory labelled *practice_with_explanations.pdf*. You can also find it [[https://drive.google.com/drive/folders/1D3jN489fuNuuHg_8pqMtCI-S0A2Wjjom][here]] under the file *Codebusters.pdf*
+
+[[https://drive.google.com/drive/folders/14dhuxd4uKyZERV9U865uUbVkPmu0xdf5][Here is another practice test that has answer key and solutions separated]], we should go through this together and provide explanations for each solution
